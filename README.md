@@ -1,7 +1,3 @@
 # Business-Insights
-  
- 
- 
- 
 
 
