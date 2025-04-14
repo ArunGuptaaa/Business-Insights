@@ -127,9 +127,9 @@ Transactional data
 - Data modeling is the foundation of any report  
 - Followed good practices & implemented **Snowflake schema**
 
-📌 [Best Practices Blog](https://addendanalytics.com/blog/data-modelling-best-practices/)
 
-![Data Model](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Data_model.png)
+
+![Data Model](https://github.com/ArunGuptaaa/Business-Insights/blob/main/Reports/Data%20Model.png)
 
 ---
 
@@ -146,6 +146,8 @@ Buttons to navigate to each report section:
 - Executive View  
 - Support  
 
+![Home](https://github.com/ArunGuptaaa/Business-Insights/blob/main/Reports/Home%20View.png)
+
 ---
 
 ### 💰 Finance View
@@ -156,7 +158,7 @@ Buttons to navigate to each report section:
 - Performance trend with dynamic comparison  
 - Top/Bottom products & customers by Net Sales  
 
-![Finance](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Finace.gif)
+![Finance](https://github.com/ArunGuptaaa/Business-Insights/blob/main/Reports/Finance%20View.png)
 
 ---
 
@@ -168,7 +170,7 @@ Buttons to navigate to each report section:
 - Market/Customer/Region performance matrix  
 - Tooltip trend per customer  
 
-![Sales](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Sales.gif)
+![Sales](https://github.com/ArunGuptaaa/Business-Insights/blob/main/Reports/Sales%20View.png)
 
 ---
 
@@ -180,7 +182,7 @@ Buttons to navigate to each report section:
   - Net Sales & Gross Margin %  
 - Matrix view for Segment, Category, and Product performance  
 
-![Marketing](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Marketing.gif)
+![Marketing](https://github.com/ArunGuptaaa/Business-Insights/blob/main/Reports/Marketing%20View.png)
 
 ---
 
@@ -190,7 +192,7 @@ Buttons to navigate to each report section:
 - Risk factor and net error trend  
 - Product and Customer metrics: FA%, LY, Error%, Risk  
 
-![Supply Chain](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/supply%20chain.gif)
+![Supply Chain](https://github.com/ArunGuptaaa/Business-Insights/blob/main/Reports/Supply%20Chain%20View.png)
 
 ---
 
@@ -202,7 +204,7 @@ Buttons to navigate to each report section:
 - Top 5 Products & Customers  
 - Sub-Zone insights with Revenue %  
 
-![Executive](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Resources/Executive.gif)
+![Executive](https://github.com/ArunGuptaaa/Business-Insights/blob/main/Reports/Executive%20View.png)
 
 ---
 
