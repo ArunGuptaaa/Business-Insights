@@ -216,7 +216,7 @@ Buttons to navigate to each report section:
 - Supply chain: **Forecast Accuracy**, **Net/Abs Error**, **Risk**  
 - One of the most important skills: **Stakeholder expectation management**
 
-📁 **Download Report**: [360.pbix](https://github.com/Naveen-S6/Business_Insights_360/blob/main/Report/360.pbix)
+📁 **Download Report**: [business_insights_360.pbix](https://github.com/ArunGuptaaa/Business-Insights/blob/main/business_insights_360.pbix)
 
 ---
 
